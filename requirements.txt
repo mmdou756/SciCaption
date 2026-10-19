@@ -1,0 +1,12 @@
+tqdm==4.67.1
+transformers==4.57.1
+huggingface-hub==0.36.0
+modelscope==1.31.0
+kagglehub==0.3.13
+peft==0.7.1
+pandas==2.3.3
+datasets==3.6.0
+rouge_score==0.1.2
+nltk
+openai==1.13.3
+dashscope
